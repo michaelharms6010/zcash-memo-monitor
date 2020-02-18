@@ -28,12 +28,10 @@ for post in txnlist:
         continue
     elif post["datetime"] in times:
         continue
-    # else:
-    #     r = requests.post(url = URL, data=json.dumps(post), headers=headers)
-    #     print(r)
     else:
-        print(post)
-        print("shouldn't be anything here")
+        r = requests.post(url = URL, data=json.dumps(post), headers=headers)
+        print(r)
+
 
 
 # f.write(sys.stdin)
