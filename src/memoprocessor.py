@@ -17,10 +17,23 @@ for t in txns:
     txnlist.append(params)
 
 # if txn is new:
-for post in txnlist:
-    r = requests.post(url = URL, data=json.dumps(post), headers=headers)
-    print(r)
 
+g = requests.get(url = URL)
+postlist = g.json()
+times = [int(i["datetime"]) for i in postlist]
+print(times)
+
+for post in txnlist:
+    if post["memo"] == None:
+        continue
+    elif post["datetime"] in times:
+        continue
+    # else:
+    #     r = requests.post(url = URL, data=json.dumps(post), headers=headers)
+    #     print(r)
+    else:
+        print(post)
+        print("shouldn't be anything here")
 
 
 # f.write(sys.stdin)
