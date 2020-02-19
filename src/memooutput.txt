@@ -1,2 +1,9 @@
-{'amount': 100000, 'memo': u'"hey it\'s a nice memo here for ya"', 'datetime': 1582059549}
-{'amount': 100000, 'memo': u'Testing listening script', 'datetime': 1582065385}
+{'txid': '18d187027f8375a4a12ccb5252bc915040cd8108df0199374ea57dca3736a612', 'amount': 100000, 'memo': 'Memo test 2', 'datetime': 1582130698126}
+{'txid': '42b838a348b783c245f4aea3ddd37f6813d7591a5415b5f369e4fed139f75d64', 'amount': 1000000, 'memo': 'Private Key Import Memo History Test 1', 'datetime': 1582130698126}
+{'txid': '68bf3084fde45e4bdd4a43e26bf7fa22976fe8f1faae35f301b1c9b950f89298', 'amount': 100000, 'memo': 'newsletter memo backlog test 3 - message in a bottle heh', 'datetime': 1582130698126}
+{'txid': 'b444087d06f57dba8e37fbab93827219e8b6a313718bcd60a6faae6175cba99a', 'amount': 10000, 'memo': 'ö', 'datetime': 1582130698126}
+{'txid': '44d9a5a699909f0c15cb9b19b2736c4351722baa0d1ae224a9fed1745ade249d', 'amount': 100000, 'memo': "Ok we on a full node now maybe it'll all be ok", 'datetime': 1582130698126}
+{'txid': 'f747f4b196aa77d50ef51cfb8b3eebbbde6a099fd9e2fca6f01282040b32babf', 'amount': 100000, 'memo': 'Send at least .001 ZEC and a memo to zs1n5m4szkmqup6ht9nuwke9j5w6pwcd527l4sm8u2aqqhaedjv5at64el6eyazm6engqplx0ht6x9 and it will be posted here automatically!', 'datetime': 1582131436342}
+{'txid': '9a6aa91ba6aa6df5b7c005b9ce4aea8718b224076fd73680ffbc125c5f63e807', 'amount': 100000, 'memo': 'You know, I really like drinking coffee.', 'datetime': 1582132186134}
+{'txid': '24826e97495008276a9ed1749067be1550b25f9d81385347408003569789d1d3', 'amount': 10000000, 'memo': 'Sending .1 ZEC or more will highlight your message!', 'datetime': 1582132685840}
+{'txid': '0f0106331d2055d72243687ea03d23c9ac367536448f5a0db368301602d0ba9d', 'amount': 100000, 'memo': 'In the secret space of dreams\nWhere I dreaming lay amazed\nWhen the secrets all are told\nAnd the petals all unfold\nWhen there was no dream of mine\nYou dreamed of me', 'datetime': 1582139156371}
