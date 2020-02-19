@@ -2,8 +2,8 @@ import sys, json
 import requests
 import ast
 
-# URL = "https://be.zeitpages.com/board"
-URL = "https://zeitpages-staging.herokuapp.com/board"
+URL = "https://be.zecpages.com/board"
+# URL = "https://zeitpages-staging.herokuapp.com/board"
 
 with open("memooutput.txt", "r") as oldtxns:
     records = []
