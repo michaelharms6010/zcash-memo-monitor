@@ -1,1 +1,2 @@
-[{'amount': 100000, 'memo': None, 'datetime': 1582059008}{'amount': 100000, 'memo': u'"hey it\'s a nice memo here for ya"', 'datetime': 1582059549}{'amount': 100000, 'memo': u'Testing listening script', 'datetime': 1582065385}]
+{'amount': 100000, 'memo': u'"hey it\'s a nice memo here for ya"', 'datetime': 1582059549}
+{'amount': 100000, 'memo': u'Testing listening script', 'datetime': 1582065385}
